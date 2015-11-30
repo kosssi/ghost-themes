@@ -1,0 +1,22 @@
+{
+  "name": "sconstans",
+  "version": "1.0.0",
+  "description": "The default theme for [Ghost](http://github.com/tryghost/ghost/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.4.0",
+    "gulp": "^3.9.0",
+    "gulp-smushit": "^1.1.0",
+    "imagemin-jpegoptim": "^4.0.0",
+    "imagemin-optipng": "^4.3.0",
+    "imagemin-pngquant": "^4.2.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^2.3.0"
+  }
+}

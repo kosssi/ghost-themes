@@ -1,0 +1,22 @@
+{
+  "name": "ghost-theme-sconstans",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kosssi/vps-ovh",
+  "authors": [
+    "Simon Constans <simonc@linux.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
